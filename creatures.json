@@ -1,90 +1,230 @@
 {
-    "creatures_normal":[
+    "creatures":[
         {
-            "name":"Rat 1",
-            "exp":5
-            
-        },{
-            "name":"Rat 1",
-            "exp":5
-            
+            "name": "Rat_1",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/e/e5/Movingrat.gif",
+            "exp": 5
+        },
+        {
+            "name": "Rat_2",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/4/4d/Greyrat.gif",
+            "exp": 8
+        },
+        {
+            "name": "Crow",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/0/02/Crow_%28Updated%29.png",
+            "exp": 12
+        },
+        {
+            "name": "Wolf",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/a/a0/Wolf_%28Updated%29.png",
+            "exp": 18
+        },
+        {
+            "name": "Scorpion",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/f/f9/Scorpion.gif",
+            "exp": 20
+        },
+        {
+            "name": "Cobra",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/3/38/Cobra.gif",
+            "exp": 22
+        },
+        {
+            "name": "Worm",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/d/d1/Worm.gif",
+            "exp": 25
+        },
+        {
+            "name": "Goblin",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/4/45/Goblin.gif",
+            "exp": 30
+        },
+        {
+            "name": "Mummy",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/d/dd/Mummy.gif",
+            "exp": 50
+        },
+        {
+            "name": "Pharaoh",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/1/17/Pharaoh.gif",
+            "exp": 75
+        },
+        {
+            "name": "Assassin",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/e/ef/Assassin_%28Updated%29.png",
+            "exp": 125
+        },
+        {
+            "name": "Yellow Assassin",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/2/24/Yellow_Assassin_%28Updated%29.png",
+            "exp": 160
+        },
+        {
+            "name": "Assassin Ninja",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/2/2a/Assasin_Ninja.png",
+            "exp": 200
+        },
+        {
+            "name": "Zombie",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/8/80/Zombie_Gif.gif",
+            "exp": 200
+        },
+        {
+            "name": "Zombie_2",
+            "img": "img/monsters/zombie[b].png",
+            "exp": 200
+        },
+        {
+            "name": "Skeleton",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/5/51/Skeleton_%28Updated%29.png",
+            "exp": 250
+        },
+        {
+            "name": "Skeleton Archer",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/9/9c/Skeleton_Archer_%28Updated%29.png",
+            "exp": 270
+        },
+        {
+            "name": "Skeleton Warrior",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/b/bc/Skeleton_Warrior_%28Updated%29.png",
+            "exp": 300
+        },
+        {
+            "name": "Vampire",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/2/2c/Vampire_Gif.gif",
+            "exp": 375
+        },
+        {
+            "name": "Red Vampire",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/2/24/Red_Vampire_Gif.gif",
+            "exp": 430
+        },
+        {
+            "name": "Drow Assassin",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/4/4d/Drow_Assassin-0.png",
+            "exp": 490
+        },
+        {
+            "name": "Drow Ranger",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/9/93/Drow_Ranger_%28Updated%29.png",
+            "exp": 530
+        },
+        {
+            "name": "Drow Mage",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/b/b2/Drow_Mage_%28Updated%29.png",
+            "exp": 550
+        },
+        {
+            "name": "Drow Fighter",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/a/a7/Drow_Fighter_%28Updated%29.png",
+            "exp": 580
+        },
+        {
+            "name": "Drow Sorceress",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/c/c7/Drow_Sorceress_%28Updated%29.png",
+            "exp": 620
+        },
+        {
+            "name": "Lizard Warrior",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/d/df/Lizard_Warrior_%28Updated%29.png",
+            "exp": 640
+        },
+        {
+            "name": "Djinn",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/c/c4/Djinn.png",
+            "exp": 640
+        },
+        {
+            "name": "Lizard Archer",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/4/40/Lizard_Archer%28Updated%29.png",
+            "exp": 700
+        },
+        {
+            "name": "Lizard Shaman",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/c/ca/Lizard_Shaman_%28Updated%29.png",
+            "exp": 740
+        },
+        {
+            "name": "Dead Eyes",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/f/f6/Dead_Eyes.png",
+            "exp": 740
+        },
+        {
+            "name": "Lizard Captain",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/2/23/Lizard_Captain_%28Updated%29.png",
+            "exp": 770
+        },
+        {
+            "name": "Lizard High Shaman",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/3/34/Lizard_High_Shaman%28Updated%29.png",
+            "exp": 800
+        },
+        {
+            "name": "Gargoyle",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/4/44/Gargoyle.png",
+            "exp": 800
+        },
+        {
+            "name": "Minotaur",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/2/29/Minotaur_%28Updated%29.png",
+            "exp": 2500
+        },
+        {
+            "name": "Minotaur 2",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/f/f1/Minotaur_2_%28Updated%29.png",
+            "exp": 3000
+        },
+        {
+            "name": "Minotaur 3",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/2/29/Minotaur_3_%28Updated%29.png",
+            "exp": 3500
+        },
+        {
+            "name": "Dragon Hatchling",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/e/e4/Dragon_Hatchling_%28Updated%29.png",
+            "exp": 5500
+        },
+        {
+            "name": "Dragon",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/c/c2/Dragon_%28Updated%29.png",
+            "exp": 11000
+        },
+        {
+            "name": "Dragon Warden",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/6/6a/Dragon_Warden_%28Updated%29.png",
+            "exp": 17000
+        },
+        {
+            "name": "Ice Elemental",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/3/35/Ice_Elemental.png",
+            "exp": 26500
+        },
+        {
+            "name": "Ice Dragon",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/b/b2/Ice_Dragon_%28Updated%29.png",
+            "exp": 31000
+        },
+        {
+            "name": "Yeti",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/8/8b/Yeti_%28Updated%29.png",
+            "exp": 35000
+        },
+        {
+            "name": "Lava Golem",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/c/cb/Lava_Golem.png",
+            "exp": 64000
+        },
+        {
+            "name": "Orthrus",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/d/db/Orthrus.png",
+            "exp": 250000
+        },
+        {
+            "name": "Demon",
+            "img": "https://static.wikia.nocookie.net/rucoy-online/images/9/98/1654310088053.png",
+            "exp": 250000
         }
-        ,{
-            "name":"Rat 1",
-            "exp":5
-            
-        }
-        ,{
-            "name":"Rat 1",
-            "exp":5
-            
-        }
-        ,{
-            "name":"Rat 1",
-            "exp":5
-            
-        }
-        ,{
-            "name":"Rat 1",
-            "exp":5
-            
-        }
-        ,{
-            "name":"Rat 1",
-            "exp":5
-            
-        }
-        ,{
-            "name":"Rat 1",
-            "exp":5
-            
-        }
-        ,{
-            "name":"Rat 1",
-            "exp":5
-            
-        }
-        ,{
-            "name":"Rat 1",
-            "exp":5
-            
-        }
-        ,{
-            "name":"Rat 1",
-            "exp":5
-            
-        }
-        ,{
-            "name":"Rat 1",
-            "exp":5
-            
-        }
-        ,{
-            "name":"Rat 1",
-            "exp":5
-            
-        }
-        ,{
-            "name":"Rat 1",
-            "exp":5
-            
-        }
-        ,{
-            "name":"Rat 1",
-            "exp":5
-            
-        }
-        ,{
-            "name":"Rat 1",
-            "exp":5
-            
-        }
-        ,{
-            "name":"Rat 1",
-            "exp":5
-            
-        }
-
-]
+    ]
 }
 
