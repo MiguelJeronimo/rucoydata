@@ -1,8 +1,9 @@
 for(let index = 1; index <= 300; index++){
 	
 	console.log(`Level:${index}, Current Exp: ${expNeeded(index)}, ExpNeeded: ${ExpNeededNExt(index)}`)
+	
 }
-
+Monsters()
 function expNeeded(level) {
 	exp = Math.pow(level, (level/1000)+3)
 	return Math.ceil(exp)
@@ -28,5 +29,20 @@ function expNeededLEvel (level){
 		exp = Math.pow(level, (level/1000)+2.373)
 	}
 	return Math.ceil(exp)
+}
+
+function creatureExp(exp_creature, exp_character) {
+	let cantidad = exp_character/ exp_creature
+	return Math.ceil(cantidad)
+}
+
+function Monsters() {
+	fetch("http://10.60.63.84:5500/creatures.json")
+	.then((response)=> response.json())
+	.then((data)=>{
+		data.creatures.forEach(creature => {
+			console.log(`Exp Next Level: ${277}, Creature: ${creatureExp(creature.exp,ExpNeededNExt(277))}: ${creature.name}`)
+		});
+	})
 }
 
