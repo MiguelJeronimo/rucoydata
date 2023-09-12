@@ -266,7 +266,7 @@
                 "defense": 511
             },
             {
-                "name": "Minotaur",
+                "name": "Minotaur 2",
                 "level": 250,
                 "img": "https://static.wikia.nocookie.net/rucoy-online/images/f/f1/Minotaur_2_%28Updated%29.png",
                 "hp": 5000,
@@ -274,7 +274,7 @@
                 "defense": 591
             },
             {
-                "name": "Minotaur",
+                "name": "Minotaur 3",
                 "level": 275,
                 "img": "https://static.wikia.nocookie.net/rucoy-online/images/2/29/Minotaur_3_%28Updated%29.png",
                 "hp": 5750,
