@@ -319,7 +319,7 @@
                 "img": "https://static.wikia.nocookie.net/rucoy-online/images/b/b2/Ice_Dragon_%28Updated%29.png",
                 "hp": 45000,
                 "exp": 31000,
-                "defense": null
+                "defense": 726
             },
             {
                 "name": "Yeti",
@@ -327,7 +327,7 @@
                 "img": "https://static.wikia.nocookie.net/rucoy-online/images/8/8b/Yeti_%28Updated%29.png",
                 "hp": 55000,
                 "exp": 35000,
-                "defense": null
+                "defense": 826
             },
             {
                 "name": "Lava Golem",
