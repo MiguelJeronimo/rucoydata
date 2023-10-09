@@ -51,6 +51,12 @@ function Monsters() {
  * 
  * 
  * 
+ *     public Mob(String name, String emojicode, int defense, int health){
+        this.mob_name = name;
+        this.emoji_code = emojicode;
+        this.mob_defense = defense;
+        this.mob_health = health;
+    }
  	new Mob("Rat Lv.1", "<:1_rat:781390912248348683>", 4, 25),
     new Mob("Rat Lv.3", "<:3_rat:781390923753717781>", 7, 35),
     new Mob("Crow Lv.6", "<:6_crow:781390951191937024>", 13, 40),
