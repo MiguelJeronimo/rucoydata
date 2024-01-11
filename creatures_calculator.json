@@ -1,0 +1,447 @@
+{
+    "creatures":{
+        "normal":[
+            {
+                "name": "Rat",
+                "level": 1,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/e/e5/Movingrat.gif",
+                "hp": 25,
+                "exp": 5,
+                "defense": 4
+            },
+            {
+                "name": "Grey Rat",
+                "level": 3,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/4/4d/Greyrat.gif",
+                "hp": 35,
+                "exp": 8,
+                "defense": 7
+            },
+            {
+                "name": "Crow",
+                "level": 6,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/0/02/Crow_%28Updated%29.png",
+                "hp": 40,
+                "exp": 12,
+                "defense": 13
+            },
+            {
+                "name": "Wolf",
+                "level": 9,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/a/a0/Wolf_%28Updated%29.png",
+                "hp": 50,
+                "exp": 18,
+                "defense": 17
+            },
+            {
+                "name": "Scorpion",
+                "level": 12,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/f/f9/Scorpion.gif",
+                "hp": 50,
+                "exp": 20,
+                "defense": 18
+            },
+            {
+                "name": "Cobra",
+                "level": 13,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/3/38/Cobra.gif",
+                "hp": 50,
+                "exp": 22,
+                "defense": 18
+            },
+            {
+                "name": "Worm",
+                "level": 14,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/d/d1/Worm.gif",
+                "hp": 55,
+                "exp": 25,
+                "defense": 19
+            },
+            {
+                "name": "Goblin",
+                "level": 15,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/4/45/Goblin.gif",
+                "hp": 60,
+                "exp": 30,
+                "defense": 21
+            },
+            {
+                "name": "Mummy",
+                "level": 25,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/d/dd/Mummy.gif",
+                "hp": 80,
+                "exp": 50,
+                "defense": 36
+            },
+            {
+                "name": "Pharaoh",
+                "level": 35,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/1/17/Pharaoh.gif",
+                "hp": 100,
+                "exp": 75,
+                "defense": 51
+            },
+            {
+                "name": "Assassin",
+                "level": 45,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/e/ef/Assassin_%28Updated%29.png",
+                "hp": 120,
+                "exp": 125,
+                "defense": 71
+            },
+            {
+                "name": "Yellow Assassin",
+                "level": 50,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/2/24/Yellow_Assassin_%28Updated%29.png",
+                "hp": 140,
+                "exp": 160,
+                "defense": 81
+            },
+            {
+                "name": "Assasin Ninja",
+                "level": 55,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/2/2a/Assasin_Ninja.png",
+                "hp": 180,
+                "exp": 200,
+                "defense": 91
+            },
+            {
+                "name": "Zombie",
+                "level": 65,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/8/80/Zombie_Gif.gif",
+                "hp": 200,
+                "exp": 200,
+                "defense": 106
+            },
+            {
+                "name": "Skeleton",
+                "level": 75,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/5/51/Skeleton_%28Updated%29.png",
+                "hp": 300,
+                "exp": 250,
+                "defense": 121
+            },
+            {
+                "name": "Skeleton Archer",
+                "level": 80,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/9/9c/Skeleton_Archer_%28Updated%29.png",
+                "hp": 300,
+                "exp": 270,
+                "defense": 101
+            },
+            {
+                "name": "Skeleton Warrior",
+                "level": 90,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/b/bc/Skeleton_Warrior_%28Updated%29.png",
+                "hp": 375,
+                "exp": 300,
+                "defense": 146
+            },
+            {
+                "name": "Vampire",
+                "level": 100,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/2/2c/Vampire_Gif.gif",
+                "hp": 450,
+                "exp": 375,
+                "defense": 171
+            },
+            {
+                "name": "Red Vampire",
+                "level": 110,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/2/24/Red_Vampire_Gif.gif",
+                "hp": 530,
+                "exp": 430,
+                "defense": 186
+            },
+            {
+                "name": "Drow Assassin",
+                "level": 120,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/4/4d/Drow_Assassin-0.png",
+                "hp": 620,
+                "exp": 490,
+                "defense": 221
+            },
+            {
+                "name": "Drow Ranger",
+                "level": 125,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/9/93/Drow_Ranger_%28Updated%29.png",
+                "hp": 600,
+                "exp": 530,
+                "defense": 191
+            },
+            {
+                "name": "Drow Mage",
+                "level": 130,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/b/b2/Drow_Mage_%28Updated%29.png",
+                "hp": 600,
+                "exp": 550,
+                "defense": 191
+            },
+            {
+                "name": "Drow Fighter",
+                "level": 135,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/a/a7/Drow_Fighter_%28Updated%29.png",
+                "hp": 680,
+                "exp": 580,
+                "defense": 246
+            },
+            {
+                "name": "Drow Sorceress",
+                "level": 140,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/c/c7/Drow_Sorceress_%28Updated%29.png",
+                "hp": 600,
+                "exp": 620,
+                "defense": 221
+            },
+            {
+                "name": "Lizard Warrior",
+                "level": 150,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/d/df/Lizard_Warrior_%28Updated%29.png",
+                "hp": 680,
+                "exp": 640,
+                "defense": 301
+            },
+            {
+                "name": "Lizard Archer",
+                "level": 160,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/4/40/Lizard_Archer%28Updated%29.png",
+                "hp": 650,
+                "exp": 700,
+                "defense": 271
+            },
+            {
+                "name": "Lizard Shaman",
+                "level": 170,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/c/ca/Lizard_Shaman_%28Updated%29.png",
+                "hp": 600,
+                "exp": 740,
+                "defense": 276
+            },
+            {
+                "name": "Lizard Captain",
+                "level": 180,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/2/23/Lizard_Captain_%28Updated%29.png",
+                "hp": 815,
+                "exp": 770,
+                "defense": 361
+            },
+            {
+                "name": "Lizard High Shaman",
+                "level": 190,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/3/34/Lizard_High_Shaman%28Updated%29.png",
+                "hp": 740,
+                "exp": 800,
+                "defense": 326
+            },
+            {
+                "name": "Djinn",
+                "level": 150,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/c/c4/Djinn.png",
+                "hp": 680,
+                "exp": 640,
+                "defense": 301
+            },
+            {
+                "name": "Dead Eyes",
+                "level": 150,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/f/f6/Dead_Eyes.png",
+                "hp": 600,
+                "exp": 740,
+                "defense": 276
+            },
+            {
+                "name": "Gargoyle",
+                "level": 190,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/4/44/Gargoyle.png",
+                "hp": 740,
+                "exp": 800,
+                "defense": 326
+            },
+            {
+                "name": "Minotaur",
+                "level": 225,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/2/29/Minotaur_%28Updated%29.png",
+                "hp": 4250,
+                "exp": 2500,
+                "defense": 511
+            },
+            {
+                "name": "Minotaur 2",
+                "level": 250,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/f/f1/Minotaur_2_%28Updated%29.png",
+                "hp": 5000,
+                "exp": 3000,
+                "defense": 591
+            },
+            {
+                "name": "Minotaur 3",
+                "level": 275,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/2/29/Minotaur_3_%28Updated%29.png",
+                "hp": 5750,
+                "exp": 3500,
+                "defense": 681
+            },
+            {
+                "name": "Dragon Hatchling",
+                "level": 240,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/e/e4/Dragon_Hatchling_%28Updated%29.png",
+                "hp": 10000,
+                "exp": 5500,
+                "defense": 331
+            },
+            {
+                "name": "Dragon",
+                "level": 250,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/c/c2/Dragon_%28Updated%29.png",
+                "hp": 20000,
+                "exp": 11000,
+                "defense": 501
+            },
+            {
+                "name": "Dragon Warden",
+                "level": 280,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/6/6a/Dragon_Warden_%28Updated%29.png",
+                "hp": 30000,
+                "exp": 17000,
+                "defense": 626
+            },
+            {
+                "name": "Ice Elemental",
+                "level": 300,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/3/35/Ice_Elemental.png",
+                "hp": 40000,
+                "exp": 26500,
+                "defense": 676
+            },
+            {
+                "name": "Ice Dragon",
+                "level": 320,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/b/b2/Ice_Dragon_%28Updated%29.png",
+                "hp": 45000,
+                "exp": 31000,
+                "defense": 726
+            },
+            {
+                "name": "Yeti",
+                "level": 350,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/8/8b/Yeti_%28Updated%29.png",
+                "hp": 55000,
+                "exp": 35000,
+                "defense": 826
+            },
+            {
+                "name": "Lava Golem",
+                "level": 375,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/c/cb/Lava_Golem.png",
+                "hp": 65000,
+                "exp": 64000,
+                "defense": null
+            },
+            {
+                "name": "Orthrus",
+                "level": 400,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/d/db/Orthrus.png",
+                "hp": 75000,
+                "exp": 76000,
+                "defense": null
+            },
+            {
+                "name": "Demon",
+                "level": 450,
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/9/98/1654310088053.png",
+                "hp": 100000,
+                "exp": 250000,
+                "defense": null
+            }
+        ],
+        "boss":[
+            {
+                "name": "Goblin Lord",
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/8/85/Goblin_Lord.gif",
+                "hp": 80000,
+                "exp": 50.000
+            },
+            {
+                "name": "Kamon The Cursed",
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/5/56/Kamon_the_Cursed.gif",
+                "hp": 80000,
+                "exp": 150000
+            },
+            {
+                "name": "Slime Lord",
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/8/8c/Lime_King.gif",
+                "hp": 850000,
+                "exp": 1000000
+            },
+            {
+                "name": "Vampire King",
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/3/32/Vampire_King.gif",
+                "hp": 350000,
+                "exp": 400000
+            },
+            {
+                "name": "Drow Queen",
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/b/ba/Drow_Queen.png",
+                "hp": 450000,
+                "exp": 550000
+            },
+            {
+                "name": "General Krinok",
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/6/6d/General_Krinok_%28Updated%29.png",
+                "hp": 600000,
+                "exp": 750000
+            },
+            {
+                "name": "Goliath",
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/e/e5/Goliath.png",
+                "hp": 600000,
+                "exp": 750000
+            },
+            {
+                "name": "Zarron Bravehorn",
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/c/c1/Zarron_Bravehorn.png",
+                "hp": 2000000,
+                "exp": 2500000
+            },
+            {
+                "name": "Cerberus",
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/4/45/Cerberus.png",
+                "hp": 5000000,
+                "exp": 4000000
+            }
+        ],
+        "event":[
+            {
+                "name": "Wicked Pumpkin",
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/8/8a/Wicked_Pumpkin.png",
+                "hp": "???",
+                "exp": "???"
+            },
+            {
+                "name": "La Calaca",
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/5/5f/La_Calaca.png",
+                "hp": "???",
+                "exp": "???"
+            },
+            {
+                "name": "Haunted Willow",
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/c/c9/Haunted_Willow.gif",
+                "hp": "???",
+                "exp": "???"
+            },
+            {
+                "name": "Evil Snowman",
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/d/df/Evil_Snowman.png",
+                "hp": "???",
+                "exp": "???"
+            },
+            {
+                "name": "Evil Santa",
+                "img": "https://static.wikia.nocookie.net/rucoy-online/images/7/75/Santa_Claus.gif",
+                "hp": "???",
+                "exp": "???"
+            }
+        ]
+    }
+}
+
