@@ -4,7 +4,7 @@
             {
                 "name": "Rat",
                 "level": 1,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Rat_1.gifc",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Rat_1.gif",
                 "hp": 25,
                 "exp": 5,
                 "defense": 4
