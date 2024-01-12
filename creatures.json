@@ -332,7 +332,7 @@
             {
                 "name": "Lava Golem",
                 "level": 375,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Lave_Golem.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Lava_Golem.gif",
                 "hp": 65000,
                 "exp": 64000,
                 "defense": null
