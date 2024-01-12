@@ -4,7 +4,7 @@
             {
                 "name": "Rat",
                 "level": 1,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Rat_1.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Rat_1.gif",
                 "hp": 25,
                 "exp": 5,
                 "defense": 4
@@ -12,7 +12,7 @@
             {
                 "name": "Grey Rat",
                 "level": 3,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Rat_2.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Rat_2.gif",
                 "hp": 35,
                 "exp": 8,
                 "defense": 7
@@ -20,7 +20,7 @@
             {
                 "name": "Crow",
                 "level": 6,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Crow.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Crow.gif",
                 "hp": 40,
                 "exp": 12,
                 "defense": 13
@@ -28,7 +28,7 @@
             {
                 "name": "Wolf",
                 "level": 9,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Wolf.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Wolf.gif",
                 "hp": 50,
                 "exp": 18,
                 "defense": 17
@@ -36,7 +36,7 @@
             {
                 "name": "Scorpion",
                 "level": 12,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Scorpion.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Scorpion.gif",
                 "hp": 50,
                 "exp": 20,
                 "defense": 18
@@ -44,7 +44,7 @@
             {
                 "name": "Cobra",
                 "level": 13,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Cobra.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Cobra.gif",
                 "hp": 50,
                 "exp": 22,
                 "defense": 18
@@ -52,7 +52,7 @@
             {
                 "name": "Worm",
                 "level": 14,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Worm.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Worm.gif",
                 "hp": 55,
                 "exp": 25,
                 "defense": 19
@@ -60,7 +60,7 @@
             {
                 "name": "Goblin",
                 "level": 15,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Goblin.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Goblin.gif",
                 "hp": 60,
                 "exp": 30,
                 "defense": 21
@@ -68,7 +68,7 @@
             {
                 "name": "Mummy",
                 "level": 25,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Mummy.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Mummy.gif",
                 "hp": 80,
                 "exp": 50,
                 "defense": 36
@@ -76,7 +76,7 @@
             {
                 "name": "Pharaoh",
                 "level": 35,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Pharaoh.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Pharaoh.gif",
                 "hp": 100,
                 "exp": 75,
                 "defense": 51
@@ -84,7 +84,7 @@
             {
                 "name": "Assassin",
                 "level": 45,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Assassin_1.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Assassin_1.gif",
                 "hp": 120,
                 "exp": 125,
                 "defense": 71
@@ -92,7 +92,7 @@
             {
                 "name": "Yellow Assassin",
                 "level": 50,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Assassin_2.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Assassin_2.gif",
                 "hp": 140,
                 "exp": 160,
                 "defense": 81
@@ -100,7 +100,7 @@
             {
                 "name": "Assasin Ninja",
                 "level": 55,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Assassin_Ninja.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Assassin_Ninja.gif",
                 "hp": 180,
                 "exp": 200,
                 "defense": 91
@@ -108,7 +108,7 @@
             {
                 "name": "Zombie",
                 "level": 65,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Zombie_1.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Zombie_1.gif",
                 "hp": 200,
                 "exp": 200,
                 "defense": 106
@@ -116,7 +116,7 @@
             {
                 "name": "Skeleton",
                 "level": 75,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Skeleton.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Skeleton.gif",
                 "hp": 300,
                 "exp": 250,
                 "defense": 121
@@ -124,7 +124,7 @@
             {
                 "name": "Skeleton Archer",
                 "level": 80,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Skeleton_Archer.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Skeleton_Archer.gif",
                 "hp": 300,
                 "exp": 270,
                 "defense": 101
@@ -132,7 +132,7 @@
             {
                 "name": "Skeleton Warrior",
                 "level": 90,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Skeleton_Warrior.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Skeleton_Warrior.gif",
                 "hp": 375,
                 "exp": 300,
                 "defense": 146
@@ -140,7 +140,7 @@
             {
                 "name": "Vampire",
                 "level": 100,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Vampire_1.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Vampire_1.gif",
                 "hp": 450,
                 "exp": 375,
                 "defense": 171
@@ -148,7 +148,7 @@
             {
                 "name": "Red Vampire",
                 "level": 110,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Vampire_2.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Vampire_2.gif",
                 "hp": 530,
                 "exp": 430,
                 "defense": 186
@@ -156,7 +156,7 @@
             {
                 "name": "Drow Assassin",
                 "level": 120,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Drow_Assassin.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Drow_Assassin.gif",
                 "hp": 620,
                 "exp": 490,
                 "defense": 221
@@ -164,7 +164,7 @@
             {
                 "name": "Drow Ranger",
                 "level": 125,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Drow_Ranger.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Drow_Ranger.gif",
                 "hp": 600,
                 "exp": 530,
                 "defense": 191
@@ -172,7 +172,7 @@
             {
                 "name": "Drow Mage",
                 "level": 130,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Drow_Mage.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Drow_Mage.gif",
                 "hp": 600,
                 "exp": 550,
                 "defense": 191
@@ -180,7 +180,7 @@
             {
                 "name": "Drow Fighter",
                 "level": 135,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Drow_Fighter.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Drow_Fighter.gif",
                 "hp": 680,
                 "exp": 580,
                 "defense": 246
@@ -188,7 +188,7 @@
             {
                 "name": "Drow Sorceress",
                 "level": 140,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Drow_Sorceress.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Drow_Sorceress.gif",
                 "hp": 600,
                 "exp": 620,
                 "defense": 221
@@ -196,7 +196,7 @@
             {
                 "name": "Lizard Warrior",
                 "level": 150,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Lizard_Warrior.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Lizard_Warrior.gif",
                 "hp": 680,
                 "exp": 640,
                 "defense": 301
@@ -204,7 +204,7 @@
             {
                 "name": "Lizard Archer",
                 "level": 160,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Lizard_Archer.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Lizard_Archer.gif",
                 "hp": 650,
                 "exp": 700,
                 "defense": 271
@@ -212,7 +212,7 @@
             {
                 "name": "Lizard Shaman",
                 "level": 170,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Lizard_Shaman.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Lizard_Shaman.gif",
                 "hp": 600,
                 "exp": 740,
                 "defense": 276
@@ -220,7 +220,7 @@
             {
                 "name": "Lizard Captain",
                 "level": 180,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Lizard_Captain.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Lizard_Captain.gif",
                 "hp": 815,
                 "exp": 770,
                 "defense": 361
@@ -228,7 +228,7 @@
             {
                 "name": "Lizard High Shaman",
                 "level": 190,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Lizard_High_Shaman.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Lizard_High_Shaman.gif",
                 "hp": 740,
                 "exp": 800,
                 "defense": 326
@@ -236,7 +236,7 @@
             {
                 "name": "Djinn",
                 "level": 150,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Djinn.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Djinn.gif",
                 "hp": 680,
                 "exp": 640,
                 "defense": 301
@@ -244,7 +244,7 @@
             {
                 "name": "Dead Eyes",
                 "level": 150,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Dead_Eyes.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Dead_Eyes.gif",
                 "hp": 600,
                 "exp": 740,
                 "defense": 276
@@ -252,7 +252,7 @@
             {
                 "name": "Gargoyle",
                 "level": 190,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Gargoyle_Summon.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Gargoyle_Summon.gif",
                 "hp": 740,
                 "exp": 800,
                 "defense": 326
@@ -260,7 +260,7 @@
             {
                 "name": "Minotaur",
                 "level": 225,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Minotaur_1.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Minotaur_1.gif",
                 "hp": 4250,
                 "exp": 2500,
                 "defense": 511
@@ -268,7 +268,7 @@
             {
                 "name": "Minotaur 2",
                 "level": 250,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Minotaur_2.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Minotaur_2.gif",
                 "hp": 5000,
                 "exp": 3000,
                 "defense": 591
@@ -276,7 +276,7 @@
             {
                 "name": "Minotaur 3",
                 "level": 275,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Minotaur_3.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Minotaur_3.gif",
                 "hp": 5750,
                 "exp": 3500,
                 "defense": 681
@@ -284,7 +284,7 @@
             {
                 "name": "Dragon Hatchling",
                 "level": 240,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Dragon_Hatchling.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Dragon_Hatchling.gif",
                 "hp": 10000,
                 "exp": 5500,
                 "defense": 331
@@ -292,7 +292,7 @@
             {
                 "name": "Dragon",
                 "level": 250,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Dragon.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Dragon.gif",
                 "hp": 20000,
                 "exp": 11000,
                 "defense": 501
@@ -300,7 +300,7 @@
             {
                 "name": "Dragon Warden",
                 "level": 280,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Dragon_Warden.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Dragon_Warden.gif",
                 "hp": 30000,
                 "exp": 17000,
                 "defense": 626
@@ -308,7 +308,7 @@
             {
                 "name": "Ice Elemental",
                 "level": 300,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Ice_Elemental.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Ice_Elemental.gif",
                 "hp": 40000,
                 "exp": 26500,
                 "defense": 676
@@ -316,7 +316,7 @@
             {
                 "name": "Ice Dragon",
                 "level": 320,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Ice_Dragon.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Ice_Dragon.gif",
                 "hp": 45000,
                 "exp": 31000,
                 "defense": 726
@@ -324,7 +324,7 @@
             {
                 "name": "Yeti",
                 "level": 350,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Yeti.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Yeti.gif",
                 "hp": 55000,
                 "exp": 35000,
                 "defense": 826
@@ -332,7 +332,7 @@
             {
                 "name": "Lava Golem",
                 "level": 375,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Lave_Golem.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Lave_Golem.gif",
                 "hp": 65000,
                 "exp": 64000,
                 "defense": null
@@ -340,7 +340,7 @@
             {
                 "name": "Orthrus",
                 "level": 400,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Orthrus.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Orthrus.gif",
                 "hp": 75000,
                 "exp": 76000,
                 "defense": null
@@ -348,7 +348,7 @@
             {
                 "name": "Demon",
                 "level": 450,
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Demon.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Demon.gif",
                 "hp": 100000,
                 "exp": 250000,
                 "defense": null
@@ -357,55 +357,55 @@
         "boss":[
             {
                 "name": "Goblin Lord",
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Goblin_Lord.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Goblin_Lord.gif",
                 "hp": 80000,
                 "exp": 50.000
             },
             {
                 "name": "Kamon The Cursed",
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Kamon_The_Cursed.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Kamon_The_Cursed.gif",
                 "hp": 80000,
                 "exp": 150000
             },
             {
                 "name": "Slime Lord",
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Slime_Lord.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Slime_Lord.gif",
                 "hp": 850000,
                 "exp": 1000000
             },
             {
                 "name": "Vampire King",
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Vampire_King.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Vampire_King.gif",
                 "hp": 350000,
                 "exp": 400000
             },
             {
                 "name": "Drow Queen",
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Drow_Queen.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Drow_Queen.gif",
                 "hp": 450000,
                 "exp": 550000
             },
             {
                 "name": "General Krinok",
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/General_Krinok.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/General_Krinok.gif",
                 "hp": 600000,
                 "exp": 750000
             },
             {
                 "name": "Goliath",
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Goliath.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Goliath.gif",
                 "hp": 600000,
                 "exp": 750000
             },
             {
                 "name": "Zarron Bravehorn",
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Zarron_Bravehorn.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Zarron_Bravehorn.gif",
                 "hp": 2000000,
                 "exp": 2500000
             },
             {
                 "name": "Cerberus",
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Cerberus.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Cerberus.gif",
                 "hp": 5000000,
                 "exp": 4000000
             }
@@ -413,31 +413,31 @@
         "event":[
             {
                 "name": "Wicked Pumpkin",
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Wicked_Pumpkin.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Wicked_Pumpkin.gif",
                 "hp": "???",
                 "exp": "???"
             },
             {
                 "name": "La Calaca",
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/La_Calaca.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/La_Calaca.gif",
                 "hp": "???",
                 "exp": "???"
             },
             {
                 "name": "Haunted Willow",
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Haunted_Willow.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Haunted_Willow.gif",
                 "hp": "???",
                 "exp": "???"
             },
             {
                 "name": "Evil Snowman",
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Evil_Snowman.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Evil_Snowman.gif",
                 "hp": "???",
                 "exp": "???"
             },
             {
                 "name": "Evil Santa",
-                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters/Evil_Santa.gif",
+                "img": "https://migueljeronimo.github.io/rucoydata/Rucoy_Monsters_Amplificados/Evil_Santa.gif",
                 "hp": "???",
                 "exp": "???"
             }
