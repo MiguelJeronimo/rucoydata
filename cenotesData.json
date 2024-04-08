@@ -27,6 +27,34 @@
                     "https://media-cdn.tripadvisor.com/media/photo-s/17/9e/a9/05/si-de-cenotes-se-trata.jpg"
                 ]
             }
+        },
+        {
+            "name": "Cenote Noh-Mozon",
+            "ubication": {
+                "lat": "20.1598583",
+                "lng": "-88.9775824"
+            },
+            "dataSource": {
+                "img": [
+                    "https://media-cdn.tripadvisor.com/media/photo-s/1b/f0/02/26/gran-lugar.jpg",
+                    "https://rompecabeza.mx/media/k2/items/cache/fedc90db8b13be1183c785d7eb0335c9_L.jpg",
+                    "https://media-cdn.tripadvisor.com/media/photo-s/1a/56/6d/62/20191219-102620-largejpg.jpg"
+                ]
+            }
+        },
+        {
+            "name": "Cenote de Chan Chemuyil",
+            "ubication": {
+                "lat": "20.341971",
+                "lng": "-87.3537681"
+            },
+            "dataSource": {
+                "img": [
+                    "https://media-cdn.tripadvisor.com/media/photo-s/1b/f0/02/26/gran-lugar.jpg",
+                    "https://rompecabeza.mx/media/k2/items/cache/fedc90db8b13be1183c785d7eb0335c9_L.jpg",
+                    "https://media-cdn.tripadvisor.com/media/photo-s/1a/56/6d/62/20191219-102620-largejpg.jpg"
+                ]
+            }
         }
     ]
 }
